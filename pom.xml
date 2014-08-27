@@ -30,6 +30,7 @@
 		<module>pc-event</module>
 		<module>pc-utils</module>
     <module>try-http</module>
+   <module>try-websocket</module> 
   </modules>
 
 	<dependencyManagement>
